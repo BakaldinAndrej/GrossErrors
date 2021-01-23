@@ -1,0 +1,1288 @@
+{
+	"variables": [{
+		"id": "819b7d4a-36de-4ca1-bed8-ea377798f375",
+		"name": "Глинястые шламы в шламохранилище",
+		"sourceId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"destinationId": null,
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 3792.0,
+			"max": 6000.0
+		},
+		"technologicRange": {
+			"min": 3792.0,
+			"max": 6000.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "8c51c77d-71ad-4fca-81f1-922d2c52377c",
+		"name": "Слив 5 стадии из обесшламливания в измельчение",
+		"sourceId": "adf8c5e3-c5b8-4f53-8930-eb409740c3ac",
+		"destinationId": "7b979ac0-2390-4df6-9624-eccdef3d4867",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 51818.651666666665,
+			"max": 61652.848333333335
+		},
+		"technologicRange": {
+			"min": 51818.651666666665,
+			"max": 61652.848333333335
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "907edbc4-57b0-4cd2-98a3-73659c5ff386",
+		"name": "Кек калия хлористого из обезвоживания концентрата в сушку",
+		"sourceId": "a6314610-3479-4047-9f07-c184ab6afdd5",
+		"destinationId": "eb4fd066-2c4c-4845-90ea-4d3cbd351e3b",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 9365.09476481278,
+			"max": 9941.09476481278
+		},
+		"technologicRange": {
+			"min": 1560.0,
+			"max": 18360.0
+		},
+		"tolerance": 288.0,
+		"measured": 9653.09476481278,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "9664cb8e-4ebc-4eee-bdc5-4887e5c270c7",
+		"name": "Измельченная руда из измельчения в обесшламливание",
+		"sourceId": "7b979ac0-2390-4df6-9624-eccdef3d4867",
+		"destinationId": "adf8c5e3-c5b8-4f53-8930-eb409740c3ac",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 191010.35833333334,
+			"max": 228834.19166666665
+		},
+		"technologicRange": {
+			"min": 191010.35833333334,
+			"max": 228834.19166666665
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "977136fc-7d58-49ad-b985-2e7ec569e9a1",
+		"name": "Пески 5 стадии обесшламливания во флотацию",
+		"sourceId": "adf8c5e3-c5b8-4f53-8930-eb409740c3ac",
+		"destinationId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 56735.75,
+			"max": 67704.66166666667
+		},
+		"technologicRange": {
+			"min": 56735.75,
+			"max": 67704.66166666667
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "9d910c91-1733-4f0a-aaca-dabcaf8d36ff",
+		"name": "Разгрузка сгустителей из сгущения шламов в обезвоживание хвостов",
+		"sourceId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"destinationId": "706a1082-5fac-43e2-95ce-3f6a45e1cf3d",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 7200.0,
+			"max": 10416.0
+		},
+		"technologicRange": {
+			"min": 7200.0,
+			"max": 10416.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "ae731c1f-c58a-474c-a3e1-86b67adb2a41",
+		"name": "Измерение остатка в приемных бункерах на конец",
+		"sourceId": "adc16cba-7611-40a8-84b1-f38b558ce105",
+		"destinationId": null,
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 2144.39431734,
+			"max": 2187.71541466
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 3200.0
+		},
+		"tolerance": 0.0,
+		"measured": 2166.054866,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "b6a3e163-b0a3-4be9-bbfe-a775bf955464",
+		"name": "Маточник в обесшламливание",
+		"sourceId": "84623b12-38fa-4d83-9356-a4846ceecab8",
+		"destinationId": "adf8c5e3-c5b8-4f53-8930-eb409740c3ac",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "b6f3bdd4-4247-479c-b151-9095921fbf2a",
+		"name": "Маточник во флотацию",
+		"sourceId": "84623b12-38fa-4d83-9356-a4846ceecab8",
+		"destinationId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 92877.11175646527,
+			"max": 94753.41704447467
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 106872.0
+		},
+		"tolerance": 938.1526440046998,
+		"measured": 93815.26440046998,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "c0f8fbfa-0bf9-40ee-b089-7c7ef9e5500e",
+		"name": "Слив г/ц из обезвоживания концентрата в сгущение шламов",
+		"sourceId": "a6314610-3479-4047-9f07-c184ab6afdd5",
+		"destinationId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 12840.0,
+			"max": 18624.0
+		},
+		"technologicRange": {
+			"min": 12840.0,
+			"max": 18624.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "c1df94f3-3fcf-4fb0-bf5d-2d3222c88053",
+		"name": "Хвосты флотации на обезвоживание",
+		"sourceId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"destinationId": "706a1082-5fac-43e2-95ce-3f6a45e1cf3d",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 116850.775,
+			"max": 139701.59333333332
+		},
+		"technologicRange": {
+			"min": 116850.775,
+			"max": 139701.59333333332
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "c29057e5-a2cb-4a3a-9e98-6721233e0622",
+		"name": "Флокулянт в обесшламливание",
+		"sourceId": null,
+		"destinationId": "adf8c5e3-c5b8-4f53-8930-eb409740c3ac",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 149.26099366703127,
+			"max": 152.86099366703124
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 240.0
+		},
+		"tolerance": 1.7999999999999998,
+		"measured": 151.06099366703123,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "c2a487e6-edbc-4eee-a710-f89242d5fcff",
+		"name": "Потери гидроклассификации и обезвоживания концентрата",
+		"sourceId": "a6314610-3479-4047-9f07-c184ab6afdd5",
+		"destinationId": "9c80ac0d-3bc3-48f7-8021-c6a151cd2dd0",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 0.0
+		},
+		"technologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.024,
+		"measured": 0.0,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "c38943cf-8626-4685-8421-3c13fdaf64de",
+		"name": "Пенный продукт контрольной флотации в измельчение",
+		"sourceId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"destinationId": "7b979ac0-2390-4df6-9624-eccdef3d4867",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "c72cb48d-0685-4d08-94e5-d021f6a315c3",
+		"name": "Промпродукт 1 перечистки из флотации в измельчение",
+		"sourceId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"destinationId": "7b979ac0-2390-4df6-9624-eccdef3d4867",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "c73ffb77-9329-42ae-b860-a0080eb5d06d",
+		"name": "Депрессор в обесшламливание",
+		"sourceId": null,
+		"destinationId": "adf8c5e3-c5b8-4f53-8930-eb409740c3ac",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 150.07593263947214,
+			"max": 154.22889263947224
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 240.0
+		},
+		"tolerance": 2.07648,
+		"measured": 152.15241263947217,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "e0b7aac1-69c4-4ba8-8cbe-ce081186a324",
+		"name": "Дробленая руда из приемки в приемные бункеры",
+		"sourceId": null,
+		"destinationId": "adc16cba-7611-40a8-84b1-f38b558ce105",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 39511.46970249744,
+			"max": 43735.469702497445
+		},
+		"technologicRange": {
+			"min": 18120.0,
+			"max": 98160.0
+		},
+		"tolerance": 2112.0,
+		"measured": 41623.469702497445,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "e35ee361-8c00-4236-9e3d-9cdc7d528bd7",
+		"name": "Концентрат в склад 2 отгрузка",
+		"sourceId": "eb4fd066-2c4c-4845-90ea-4d3cbd351e3b",
+		"destinationId": null,
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 3109.6410431202785,
+			"max": 3330.441043120278
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 3720.0
+		},
+		"tolerance": 110.39999999999999,
+		"measured": 3220.041043120278,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "e4bfb5c2-5f10-4fdd-850f-8c1310e67d7d",
+		"name": "Техническая вода в обезвоживание концентрата",
+		"sourceId": null,
+		"destinationId": "a6314610-3479-4047-9f07-c184ab6afdd5",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 1004.873024020625,
+			"max": 1054.264398243264
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 2004.0
+		},
+		"tolerance": 24.695687111319447,
+		"measured": 1029.5687111319446,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "e51eaac8-28e2-46f0-97f4-e33f4f4876ab",
+		"name": "Маточник из сгущения шламов в коллектор маточника",
+		"sourceId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"destinationId": "84623b12-38fa-4d83-9356-a4846ceecab8",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 146400.0,
+			"max": 212040.0
+		},
+		"technologicRange": {
+			"min": 146400.0,
+			"max": 212040.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "e54e9487-e352-46bc-80eb-7e29fca37c21",
+		"name": "Рассол ввод 2 в сгущение шламов",
+		"sourceId": null,
+		"destinationId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 5821.831840333334,
+			"max": 6105.497493
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 12240.0
+		},
+		"tolerance": 141.83282633333337,
+		"measured": 5963.664666666667,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "eba59a16-622b-40e8-97b3-3ba62fcb92dd",
+		"name": "Депрессор во флотацию",
+		"sourceId": null,
+		"destinationId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 458.6952143474256,
+			"max": 491.8152143474255
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 854.4000000000001
+		},
+		"tolerance": 16.56,
+		"measured": 475.2552143474256,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "eee561df-b308-446e-a38a-cc16c6cf66d9",
+		"name": "Потери сгущения шламов",
+		"sourceId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"destinationId": "9c80ac0d-3bc3-48f7-8021-c6a151cd2dd0",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 0.0
+		},
+		"technologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.024,
+		"measured": 0.0,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "f0dd9f0c-25a5-47ed-a24a-ad023183f690",
+		"name": "Потери обесшламливания",
+		"sourceId": "adf8c5e3-c5b8-4f53-8930-eb409740c3ac",
+		"destinationId": "9c80ac0d-3bc3-48f7-8021-c6a151cd2dd0",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 0.0
+		},
+		"technologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.024,
+		"measured": 0.0,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "f1c8405c-c159-4dc1-8985-f1b3e73e8971",
+		"name": "Измерение остатка в приемных бункерах на начало",
+		"sourceId": null,
+		"destinationId": "adc16cba-7611-40a8-84b1-f38b558ce105",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 2042.69976702,
+			"max": 2083.9664289800003
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 3200.0
+		},
+		"tolerance": 0.0,
+		"measured": 2063.333098,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "fe13444b-a666-4353-8028-37ca61aa9bee",
+		"name": "Продукт сгустителей из сушки в сгущение шламов",
+		"sourceId": "eb4fd066-2c4c-4845-90ea-4d3cbd351e3b",
+		"destinationId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": -4.7542770972222215,
+			"max": 7.72572290277778
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 194.39999999999998
+		},
+		"tolerance": 6.24,
+		"measured": 1.4857229027777779,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "06047054-9ab2-4525-8e0e-a1d90046e0f8",
+		"name": "Концентрат на обезвоживание",
+		"sourceId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"destinationId": "a6314610-3479-4047-9f07-c184ab6afdd5",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 20753.201666666664,
+			"max": 25501.346666666668
+		},
+		"technologicRange": {
+			"min": 20753.201666666664,
+			"max": 25501.346666666668
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "09fa4abb-a3d5-412c-8ce3-3237bc589f09",
+		"name": "Камерный продукт из обезвоживания концентрата в сгущение шламов",
+		"sourceId": "a6314610-3479-4047-9f07-c184ab6afdd5",
+		"destinationId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 5880.0,
+			"max": 8544.0
+		},
+		"technologicRange": {
+			"min": 5880.0,
+			"max": 8544.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "1548f0a6-7022-4ff2-93da-74ea2286c33e",
+		"name": "Щепа измельчения в отвал",
+		"sourceId": "7b979ac0-2390-4df6-9624-eccdef3d4867",
+		"destinationId": null,
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 10.08
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 10.08
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "16e15053-c362-454d-8da6-df2e6c443d0c",
+		"name": "Выщелачивающий раствор из сушки во флотацию",
+		"sourceId": "eb4fd066-2c4c-4845-90ea-4d3cbd351e3b",
+		"destinationId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 3751.272653467534,
+			"max": 3825.1926534675335
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 4320.0
+		},
+		"tolerance": 36.96,
+		"measured": 3788.232653467534,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "195f58dd-ee5f-472b-ad02-c3ff0c30de2f",
+		"name": "Дробленая руда из приемных бункеров на измельчение",
+		"sourceId": "adc16cba-7611-40a8-84b1-f38b558ce105",
+		"destinationId": "7b979ac0-2390-4df6-9624-eccdef3d4867",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 41021.38786663291,
+			"max": 44093.38786663292
+		},
+		"technologicRange": {
+			"min": 1824.0,
+			"max": 59136.0
+		},
+		"tolerance": 1536.0,
+		"measured": 42557.38786663292,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "1b53ca62-a14b-4687-a370-ce2769425152",
+		"name": "Перемещение потерь в отгрузку",
+		"sourceId": "9c80ac0d-3bc3-48f7-8021-c6a151cd2dd0",
+		"destinationId": null,
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"technologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.024,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "1bde0aaf-01f2-42f1-b828-32669ac64ac4",
+		"name": "Потери измельчения",
+		"sourceId": "7b979ac0-2390-4df6-9624-eccdef3d4867",
+		"destinationId": "9c80ac0d-3bc3-48f7-8021-c6a151cd2dd0",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 0.0
+		},
+		"technologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.024,
+		"measured": 0.0,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "249b70e4-28e1-4d00-a514-69f33d5af502",
+		"name": "Флокулянт в сгущение шламов",
+		"sourceId": null,
+		"destinationId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 375.79596845820856,
+			"max": 400.75596845820866
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 432.0
+		},
+		"tolerance": 12.48,
+		"measured": 388.2759684582087,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "2e3b1f99-a39e-4bf4-a3ab-31e805339b46",
+		"name": "Техническая вода в сушку",
+		"sourceId": null,
+		"destinationId": "eb4fd066-2c4c-4845-90ea-4d3cbd351e3b",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "34452141-8245-4e47-9156-42db7a0128e3",
+		"name": "Потери приемных бункеров",
+		"sourceId": "adc16cba-7611-40a8-84b1-f38b558ce105",
+		"destinationId": "9c80ac0d-3bc3-48f7-8021-c6a151cd2dd0",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 0.0
+		},
+		"technologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.024,
+		"measured": 0.0,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "3bca5f8c-ac6e-4dbe-ae5f-b0f9938f5a94",
+		"name": "Фильтрат из обезвоживания хвостов в сгущение шламов",
+		"sourceId": "706a1082-5fac-43e2-95ce-3f6a45e1cf3d",
+		"destinationId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 13427.460833333333,
+			"max": 16075.129166666668
+		},
+		"technologicRange": {
+			"min": 13427.460833333333,
+			"max": 16075.129166666668
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "3c14d84e-a8ae-4e68-a33f-6fbd6a248e9a",
+		"name": "Потери сушки",
+		"sourceId": "eb4fd066-2c4c-4845-90ea-4d3cbd351e3b",
+		"destinationId": "9c80ac0d-3bc3-48f7-8021-c6a151cd2dd0",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 0.0
+		},
+		"technologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.024,
+		"measured": 0.0,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "457b3f0d-a930-4675-b7f8-f844d5406f74",
+		"name": "Продукт колонных машин из обесшламливания во флотацию",
+		"sourceId": "adf8c5e3-c5b8-4f53-8930-eb409740c3ac",
+		"destinationId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 127738.05407169071,
+			"max": 174464.17246667735
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 170400.0
+		},
+		"tolerance": 23363.059197493316,
+		"measured": 151101.11326918405,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "4a102125-0e0d-4f31-8b7d-b55d1e7b54be",
+		"name": "Рассол ввод 1 в сгущение шламов",
+		"sourceId": null,
+		"destinationId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 1120.4926250713625,
+			"max": 1371.1333158646385
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 12240.0
+		},
+		"tolerance": 125.32034539663802,
+		"measured": 1245.8129704679998,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "4cc771ba-feac-4a39-bbf1-ee10cc041080",
+		"name": "Потери гидросгущения и обезвоживания хвостов",
+		"sourceId": "706a1082-5fac-43e2-95ce-3f6a45e1cf3d",
+		"destinationId": "9c80ac0d-3bc3-48f7-8021-c6a151cd2dd0",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 0.0
+		},
+		"technologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.024,
+		"measured": 0.0,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "4de29f08-8d13-4838-920d-d6b1d28b69b3",
+		"name": "Амин во флотацию",
+		"sourceId": null,
+		"destinationId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 325.95999449460146,
+			"max": 333.63999449460147
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 480.0
+		},
+		"tolerance": 3.84,
+		"measured": 329.7999944946015,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "65fb3de5-b72b-4b5a-8342-006e4725c116",
+		"name": "Кек хвостов в отгрузку",
+		"sourceId": "706a1082-5fac-43e2-95ce-3f6a45e1cf3d",
+		"destinationId": null,
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 38545.61215910343,
+			"max": 39324.31139464088
+		},
+		"technologicRange": {
+			"min": 21120.0,
+			"max": 62400.0
+		},
+		"tolerance": 389.3496177687216,
+		"measured": 38934.96177687215,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "7131a8a9-0de7-4ec6-959e-9bf5e7ce26d5",
+		"name": "Маточник в обезвоживание концентрата",
+		"sourceId": "84623b12-38fa-4d83-9356-a4846ceecab8",
+		"destinationId": "a6314610-3479-4047-9f07-c184ab6afdd5",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 2400.0,
+			"max": 3360.0
+		},
+		"technologicRange": {
+			"min": 2400.0,
+			"max": 3360.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "7181bb95-2031-4f97-bcb4-5cb075f28569",
+		"name": "Слив 2-4 стадий обесшламливания в сгущение шламов",
+		"sourceId": "adf8c5e3-c5b8-4f53-8930-eb409740c3ac",
+		"destinationId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "726b8694-a3b3-4fb3-b65a-0310900c7013",
+		"name": "Потери флотации",
+		"sourceId": "00a083a0-0f95-41f4-a86b-8ff6889a9961",
+		"destinationId": "9c80ac0d-3bc3-48f7-8021-c6a151cd2dd0",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 0.0,
+			"max": 0.0
+		},
+		"technologicRange": {
+			"min": -2400000.0,
+			"max": 2400000.0
+		},
+		"tolerance": 0.024,
+		"measured": 0.0,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "72ebfb45-80d0-4770-be84-4cdec6d5a03f",
+		"name": "Концентрат в грануляцию отгрузка",
+		"sourceId": "eb4fd066-2c4c-4845-90ea-4d3cbd351e3b",
+		"destinationId": null,
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 6179.174244171112,
+			"max": 6558.374244171111
+		},
+		"technologicRange": {
+			"min": 0.0,
+			"max": 8640.0
+		},
+		"tolerance": 189.60000000000002,
+		"measured": 6368.774244171111,
+		"isMeasured": true,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}, {
+		"id": "79d2a7c9-4b09-47f7-a5ca-ecbd486e7d29",
+		"name": "Слив г/ц из обезвоживания хвостов в сгущение шламов",
+		"sourceId": "706a1082-5fac-43e2-95ce-3f6a45e1cf3d",
+		"destinationId": "9376a830-2727-457b-ad43-fd9119150ae7",
+		"isExcluded": false,
+		"metrologicRange": {
+			"min": 58626.941666666666,
+			"max": 69974.09166666666
+		},
+		"technologicRange": {
+			"min": 58626.941666666666,
+			"max": 69974.09166666666
+		},
+		"tolerance": 0.0,
+		"measured": 0.0,
+		"isMeasured": false,
+		"inService": true,
+		"varType": "FLOW",
+		"exactRounding": false,
+		"activeForGED": false,
+		"meterErrorExpertRating": 1.0,
+		"leakExpertRating": 1.0,
+		"borderLeakExpertRating": 1.0,
+		"missedFlowExpertRating": 1.0,
+		"excluded": false
+	}],
+	"dependencies": null,
+	"balanceSettings": {
+		"roundValueSolution": true,
+		"roundUnit": 0.001,
+		"maxImbalanceValue": 4.0E-4,
+		"defaultTechnologicalUpperBoundValue": 100000.0,
+		"defaultTechnologicalLowerBoundValue": 0.0,
+		"globalTestOnly": false,
+		"defaultAbsTolerance": 1000.0,
+		"fixValueSolution": true,
+		"fixUnit": 5.0E-4,
+		"maxSolverIterations": 200,
+		"maxRoundingEffortsParameter": 200,
+		"constrFeasAnalysis": "METROLOGY_AND_TECHNOLOGY",
+		"altPointBoundsFlag": false,
+		"boundsType": "METROLOGY_ONLY",
+		"constrSatisfactionFlag": true,
+		"penaltyType": "L_1",
+		"weightsType": "EVEN_WEIGHTS"
+	},
+	"gedSettings": {
+		"branching": 1,
+		"numExtraGenerations": 200,
+		"numScenarioErrorsMax": 200,
+		"numTreeNodesMax": 1000,
+		"lossEnabled": true,
+		"missedFlowsEnabled": false,
+		"measurementErrorEnabled": true,
+		"unspecifiedTypeEnabled": false,
+		"techBoundsFlag": false,
+		"meterErrorExpertRating": 0.8,
+		"leakExpertRating": 0.8,
+		"borderLeakExpertRating": 0.8,
+		"missedFlowExpertRating": 0.8,
+		"scenrioSortType": "ERRORCOUNT_RATING_GLOBALTEST",
+		"negativeValueFlag": false
+	}
+}

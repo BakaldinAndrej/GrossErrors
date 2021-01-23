@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\bin\Debug\netcoreapp3.1\Balance.deps.json
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\bin\Debug\netcoreapp3.1\Balance.dll
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\obj\Debug\netcoreapp3.1\Balance.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\obj\Debug\netcoreapp3.1\Balance.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\obj\Debug\netcoreapp3.1\Balance.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\bin\Debug\netcoreapp3.1\Balance.pdb
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\obj\Debug\netcoreapp3.1\Balance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\obj\Debug\netcoreapp3.1\Balance.dll
+C:\Users\Admin\Desktop\BalanceSolver-master\Balance\obj\Debug\netcoreapp3.1\Balance.pdb
